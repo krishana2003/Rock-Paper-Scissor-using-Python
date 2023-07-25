@@ -1,1 +1,1 @@
-# Rock-Paper-Scissor-using-Python
+# Rock-Paper-Scissor-using-Python with GUI
